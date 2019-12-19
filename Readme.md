@@ -27,11 +27,6 @@ Clone this repository to a folder on your local computer.
  - You can now open the notebook you require to run the analysis. It is recommended that you open the notebooks in the same sequence as their names due to dependencies. 
 
 
-## Authors
-
-- Abishai Joy
-- Ravi Shankar
-
 ## License
 
 This project is licensed under the MIT License
